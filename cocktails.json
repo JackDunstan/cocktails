@@ -1,0 +1,298 @@
+[
+  {
+    "id": "margarita-straight-up",
+    "name": "Margarita",
+    "style": "straight-up",
+    "glass": "Coupe",
+    "garnish": "Salt rim, lime wedge",
+    "ingredients": [
+      { "name": "tequila blanco", "amount": 50, "unit": "ml" },
+      { "name": "cointreau", "amount": 25, "unit": "ml" },
+      { "name": "lime juice", "amount": 25, "unit": "ml" },
+      { "name": "agave syrup", "amount": 5, "unit": "ml" }
+    ],
+    "method": "Shake all ingredients with ice. Fine strain into a chilled, salt-rimmed coupe.",
+    "notes": "Cointreau can be substituted with triple sec. For a Tommy's Margarita, replace Cointreau with agave syrup (15ml)."
+  },
+  {
+    "id": "margarita-rocks",
+    "name": "Margarita on the Rocks",
+    "style": "on-the-rocks",
+    "glass": "Rocks",
+    "garnish": "Salt rim, lime wedge",
+    "ingredients": [
+      { "name": "tequila blanco", "amount": 50, "unit": "ml" },
+      { "name": "cointreau", "amount": 25, "unit": "ml" },
+      { "name": "lime juice", "amount": 25, "unit": "ml" },
+      { "name": "agave syrup", "amount": 5, "unit": "ml" }
+    ],
+    "method": "Shake all ingredients with ice. Strain into a salt-rimmed rocks glass over a large ice cube.",
+    "notes": "Same recipe as the straight-up version — serve over ice for a longer, more casual drink."
+  },
+  {
+    "id": "negroni",
+    "name": "Negroni",
+    "style": "stirred",
+    "glass": "Rocks",
+    "garnish": "Orange twist",
+    "ingredients": [
+      { "name": "gin", "amount": 30, "unit": "ml" },
+      { "name": "campari", "amount": 30, "unit": "ml" },
+      { "name": "sweet vermouth", "amount": 30, "unit": "ml" }
+    ],
+    "method": "Stir all ingredients with ice for 30 seconds. Strain into a rocks glass over a large ice cube. Express an orange twist over the glass and use as garnish.",
+    "notes": "Use a quality sweet vermouth such as Carpano Antica or Cocchi di Torino. Refresh vermouth bottles regularly — refrigerate after opening."
+  },
+  {
+    "id": "kingston-negroni",
+    "name": "Kingston Negroni",
+    "style": "stirred",
+    "glass": "Rocks",
+    "garnish": "Orange twist",
+    "ingredients": [
+      { "name": "aged rum", "amount": 30, "unit": "ml" },
+      { "name": "campari", "amount": 30, "unit": "ml" },
+      { "name": "sweet vermouth", "amount": 30, "unit": "ml" }
+    ],
+    "method": "Stir all ingredients with ice for 30 seconds. Strain into a rocks glass over a large ice cube. Express an orange twist over the glass and use as garnish.",
+    "notes": "Substitute gin for aged rum — a Jamaican rum works particularly well. Appleton Estate or Hamilton Jamaican Pot Still works beautifully here."
+  },
+  {
+    "id": "boulevardier",
+    "name": "Boulevardier",
+    "style": "stirred",
+    "glass": "Rocks",
+    "garnish": "Orange twist or cherry",
+    "ingredients": [
+      { "name": "bourbon", "amount": 45, "unit": "ml" },
+      { "name": "campari", "amount": 30, "unit": "ml" },
+      { "name": "sweet vermouth", "amount": 30, "unit": "ml" }
+    ],
+    "method": "Stir all ingredients with ice for 30 seconds. Strain into a rocks glass over a large ice cube. Garnish with an orange twist or Luxardo cherry.",
+    "notes": "Rye whiskey can be substituted for bourbon for a drier, spicier result. Increase bourbon to 50ml if you prefer a spirit-forward ratio."
+  },
+  {
+    "id": "paper-plane",
+    "name": "Paper Plane",
+    "style": "straight-up",
+    "glass": "Coupe",
+    "garnish": "None",
+    "ingredients": [
+      { "name": "bourbon", "amount": 22.5, "unit": "ml" },
+      { "name": "aperol", "amount": 22.5, "unit": "ml" },
+      { "name": "amaro nonino", "amount": 22.5, "unit": "ml" },
+      { "name": "lemon juice", "amount": 22.5, "unit": "ml" }
+    ],
+    "method": "Shake all ingredients with ice. Fine strain into a chilled coupe.",
+    "notes": "Equal parts cocktail. Amaro Nonino is not substitutable — it is the defining ingredient. If unavailable, this is a different drink."
+  },
+  {
+    "id": "last-word",
+    "name": "Last Word",
+    "style": "straight-up",
+    "glass": "Coupe",
+    "garnish": "Maraschino cherry",
+    "ingredients": [
+      { "name": "gin", "amount": 22.5, "unit": "ml" },
+      { "name": "green chartreuse", "amount": 22.5, "unit": "ml" },
+      { "name": "maraschino liqueur", "amount": 22.5, "unit": "ml" },
+      { "name": "lime juice", "amount": 22.5, "unit": "ml" }
+    ],
+    "method": "Shake all ingredients with ice. Fine strain into a chilled coupe.",
+    "notes": "Another equal parts classic. Luxardo is the benchmark maraschino liqueur. Yellow Chartreuse can substitute for a gentler herbal note."
+  },
+  {
+    "id": "vesper",
+    "name": "Vesper",
+    "style": "straight-up",
+    "glass": "Coupe",
+    "garnish": "Lemon twist",
+    "ingredients": [
+      { "name": "gin", "amount": 45, "unit": "ml" },
+      { "name": "vodka", "amount": 15, "unit": "ml" },
+      { "name": "lillet blanc", "amount": 7.5, "unit": "ml" }
+    ],
+    "method": "Shake all ingredients hard with ice. Fine strain into a chilled coupe. Garnish with a large lemon twist.",
+    "notes": "Shaken, not stirred — as specified by Fleming. Lillet Blanc can be substituted with Cocchi Americano for a more bitter, closer-to-original profile. Original recipe used Kina Lillet, no longer available."
+  },
+  {
+    "id": "old-fashioned",
+    "name": "Old Fashioned",
+    "style": "stirred",
+    "glass": "Rocks",
+    "garnish": "Orange twist",
+    "ingredients": [
+      { "name": "bourbon", "amount": 60, "unit": "ml" },
+      { "name": "sugar syrup", "amount": 7.5, "unit": "ml" },
+      { "name": "angostura bitters", "amount": 2, "unit": "dashes" }
+    ],
+    "method": "Combine all ingredients in a rocks glass. Add a large ice cube and stir for 20–30 seconds until well chilled and diluted. Express an orange twist over the glass and use as garnish.",
+    "notes": "Rye whiskey is a classic alternative to bourbon. A sugar cube muddled with bitters is the traditional method — 7.5ml syrup is the modern equivalent. Do not garnish with a cherry and orange slice — that is a Wisconsin Old Fashioned."
+  },
+  {
+    "id": "sidecar",
+    "name": "Sidecar",
+    "style": "straight-up",
+    "glass": "Coupe",
+    "garnish": "Sugar rim, lemon twist",
+    "ingredients": [
+      { "name": "cognac", "amount": 50, "unit": "ml" },
+      { "name": "cointreau", "amount": 25, "unit": "ml" },
+      { "name": "lemon juice", "amount": 20, "unit": "ml" }
+    ],
+    "method": "Shake all ingredients with ice. Fine strain into a chilled, sugar-rimmed coupe. Garnish with a lemon twist.",
+    "notes": "VSOP cognac or better. Cointreau is preferred over generic triple sec here — the quality matters in a three-ingredient drink."
+  },
+  {
+    "id": "white-lady",
+    "name": "White Lady",
+    "style": "straight-up",
+    "glass": "Coupe",
+    "garnish": "Lemon twist",
+    "ingredients": [
+      { "name": "gin", "amount": 40, "unit": "ml" },
+      { "name": "cointreau", "amount": 20, "unit": "ml" },
+      { "name": "lemon juice", "amount": 20, "unit": "ml" },
+      { "name": "egg white", "amount": 15, "unit": "ml" }
+    ],
+    "method": "Dry shake all ingredients without ice first to emulsify the egg white. Add ice and shake hard. Fine strain into a chilled coupe.",
+    "notes": "The dry shake is essential for a proper foam. Aquafaba (chickpea water) is a vegan substitute for egg white at the same quantity."
+  },
+  {
+    "id": "manhattan",
+    "name": "Manhattan",
+    "style": "stirred",
+    "glass": "Coupe",
+    "garnish": "Luxardo cherry",
+    "ingredients": [
+      { "name": "rye whiskey", "amount": 50, "unit": "ml" },
+      { "name": "sweet vermouth", "amount": 25, "unit": "ml" },
+      { "name": "angostura bitters", "amount": 2, "unit": "dashes" }
+    ],
+    "method": "Stir all ingredients with ice for 30 seconds. Strain into a chilled coupe. Garnish with a Luxardo cherry.",
+    "notes": "Rye is traditional; bourbon makes a sweeter Manhattan. A dash of orange bitters alongside Angostura adds complexity. Use quality sweet vermouth — Cocchi di Torino is excellent here."
+  },
+  {
+    "id": "black-manhattan",
+    "name": "Black Manhattan",
+    "style": "stirred",
+    "glass": "Coupe",
+    "garnish": "Luxardo cherry",
+    "ingredients": [
+      { "name": "rye whiskey", "amount": 50, "unit": "ml" },
+      { "name": "averna amaro", "amount": 25, "unit": "ml" },
+      { "name": "angostura bitters", "amount": 1, "unit": "dash" },
+      { "name": "orange bitters", "amount": 1, "unit": "dash" }
+    ],
+    "method": "Stir all ingredients with ice for 30 seconds. Strain into a chilled coupe. Garnish with a Luxardo cherry.",
+    "notes": "Averna replaces sweet vermouth for a richer, more bitter profile. Created by Todd Smith at Bourbon & Branch, San Francisco."
+  },
+  {
+    "id": "mai-tai",
+    "name": "Mai Tai",
+    "style": "on-the-rocks",
+    "glass": "Rocks or Tiki",
+    "garnish": "Spent lime shell, mint sprig, cherry",
+    "ingredients": [
+      { "name": "aged rum", "amount": 30, "unit": "ml" },
+      { "name": "dark rum", "amount": 30, "unit": "ml" },
+      { "name": "cointreau", "amount": 15, "unit": "ml" },
+      { "name": "orgeat syrup", "amount": 15, "unit": "ml" },
+      { "name": "lime juice", "amount": 30, "unit": "ml" }
+    ],
+    "method": "Shake all ingredients with ice. Strain into a rocks glass over crushed ice. Garnish with the spent lime shell, a mint sprig and a cherry.",
+    "notes": "Trader Vic's original recipe calls for 17-year J. Wray & Nephew — use the best aged rum you have. A split of Jamaican and agricole rums is the classic approach. Do not add fruit juice — that is not a Mai Tai."
+  },
+  {
+    "id": "jungle-bird",
+    "name": "Jungle Bird",
+    "style": "on-the-rocks",
+    "glass": "Rocks or Tiki",
+    "garnish": "Pineapple wedge",
+    "ingredients": [
+      { "name": "dark rum", "amount": 45, "unit": "ml" },
+      { "name": "campari", "amount": 22.5, "unit": "ml" },
+      { "name": "pineapple juice", "amount": 45, "unit": "ml" },
+      { "name": "lime juice", "amount": 15, "unit": "ml" },
+      { "name": "sugar syrup", "amount": 7.5, "unit": "ml" }
+    ],
+    "method": "Shake all ingredients with ice. Strain into a rocks glass over crushed ice. Garnish with a pineapple wedge.",
+    "notes": "A Kuala Lumpur classic from the Aviary Bar, 1978. The bitterness of Campari against pineapple is the defining characteristic — do not reduce it."
+  },
+  {
+    "id": "mezcal-negroni",
+    "name": "Mezcal Negroni",
+    "style": "stirred",
+    "glass": "Rocks",
+    "garnish": "Orange twist",
+    "ingredients": [
+      { "name": "mezcal", "amount": 30, "unit": "ml" },
+      { "name": "campari", "amount": 30, "unit": "ml" },
+      { "name": "sweet vermouth", "amount": 30, "unit": "ml" }
+    ],
+    "method": "Stir all ingredients with ice for 30 seconds. Strain into a rocks glass over a large ice cube. Express an orange twist over the glass and use as garnish.",
+    "notes": "Use an espadin mezcal — the smoke should complement, not overwhelm. A 50/50 split of mezcal and gin is a good middle ground if the smokiness is too forward."
+  },
+  {
+    "id": "french-75",
+    "name": "French 75",
+    "style": "straight-up",
+    "glass": "Champagne flute or coupe",
+    "garnish": "Lemon twist",
+    "ingredients": [
+      { "name": "gin", "amount": 30, "unit": "ml" },
+      { "name": "lemon juice", "amount": 15, "unit": "ml" },
+      { "name": "sugar syrup", "amount": 10, "unit": "ml" },
+      { "name": "champagne", "amount": 60, "unit": "ml" }
+    ],
+    "method": "Shake gin, lemon juice and sugar syrup with ice. Fine strain into a flute or coupe. Top with chilled Champagne. Garnish with a lemon twist.",
+    "notes": "Cognac is the New Orleans variation and equally valid. Use a decent but not precious Champagne — or a good Crémant. Prosecco will work but is sweeter."
+  },
+  {
+    "id": "sazerac",
+    "name": "Sazerac",
+    "style": "stirred",
+    "glass": "Rocks",
+    "garnish": "Lemon twist (discard after expressing)",
+    "ingredients": [
+      { "name": "rye whiskey", "amount": 60, "unit": "ml" },
+      { "name": "sugar syrup", "amount": 7.5, "unit": "ml" },
+      { "name": "peychaud's bitters", "amount": 3, "unit": "dashes" },
+      { "name": "absinthe", "amount": 5, "unit": "ml" }
+    ],
+    "method": "Rinse a chilled rocks glass with absinthe, discarding the excess. In a mixing glass, stir rye, sugar syrup and bitters with ice for 30 seconds. Strain into the absinthe-rinsed glass. Express a lemon twist over the drink, rub around the rim, then discard. No ice.",
+    "notes": "Served without ice — this is correct. Peychaud's bitters are non-negotiable here. Herbsaint or Pernod can substitute for absinthe in the rinse."
+  },
+  {
+    "id": "corpse-reviver-2",
+    "name": "Corpse Reviver #2",
+    "style": "straight-up",
+    "glass": "Coupe",
+    "garnish": "Lemon twist or cherry",
+    "ingredients": [
+      { "name": "gin", "amount": 22.5, "unit": "ml" },
+      { "name": "cointreau", "amount": 22.5, "unit": "ml" },
+      { "name": "lillet blanc", "amount": 22.5, "unit": "ml" },
+      { "name": "lemon juice", "amount": 22.5, "unit": "ml" },
+      { "name": "absinthe", "amount": 2, "unit": "dashes" }
+    ],
+    "method": "Add a dash or two of absinthe to a chilled coupe, swirl to coat and discard. Shake remaining ingredients with ice. Fine strain into the absinthe-rinsed coupe.",
+    "notes": "Another equal parts classic. Cocchi Americano is a good substitute for Lillet Blanc. The Savoy Cocktail Book warns: 'Four of these taken in swift succession will unrevive the corpse again.'"
+  },
+  {
+    "id": "mojito",
+    "name": "Mojito",
+    "style": "built",
+    "glass": "Highball",
+    "garnish": "Mint sprig, lime wedge",
+    "ingredients": [
+      { "name": "white rum", "amount": 50, "unit": "ml" },
+      { "name": "lime juice", "amount": 25, "unit": "ml" },
+      { "name": "sugar syrup", "amount": 15, "unit": "ml" },
+      { "name": "fresh mint", "amount": 8, "unit": "leaves" },
+      { "name": "soda water", "amount": 75, "unit": "ml" }
+    ],
+    "method": "Gently press mint leaves in the base of a highball glass — do not muddle aggressively, you want to bruise not shred. Add rum, lime juice and sugar syrup. Fill glass with crushed ice. Add soda water and stir gently to combine. Top with more crushed ice and garnish with a mint sprig and lime wedge.",
+    "notes": "Light rum is traditional — Havana Club 3 or Bacardi. Do not muddle the mint aggressively or you will release bitter chlorophyll. The mint should be fragrant, not green-stained."
+  }
+]
