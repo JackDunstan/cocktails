@@ -1,29 +1,28 @@
-# Cocktails
+# The home bar
 
-## Bartender Style Recipe Specs
+Static cocktail recipe app at `/cocktails/`. No build, API keys or dependencies.
 
-### Update 11 June 2013
+## Inventory
 
-Added some more cocktails:
+Edit `ingredients.md`, then reload the app after deploying the change:
 
-Amaretto Sour, Aperol Spritz, Benton's Old Fashioned, Champs-Elysées, Corn & Oil, Earl Grey MarTEAni, Gin Gin Mule, Hemingway Special, Jack Rose, Martinez, Penicillian, Pisco Sour, Planters Punch, Southside Cocktail, St-Germain Cocktail, Vieux Carre
+- `* Vodka` means in stock.
+- `* Cointreau [x]` (or `[X]`) means usually stocked but currently unavailable.
+- Standard Markdown checkboxes (`* [x] Cointreau`) also work, with the same out-of-stock meaning.
+- Duplicate names are combined without regard to case. If either duplicate is out of stock, the combined item is out of stock.
 
+The app fetches the file on every load. Shopping-list checkmarks are saved only in this browser; they do not update the inventory. Download the list as a text file for shopping.
 
-### Update 28 Jan 2013
+## Recipes
 
-96 Drinks now added and formatted to the list with (hopefully) correct glass types.. 
+`recipes.json` holds 32 selected Difford’s Guide recipes, checked 31 October 2026. Each recipe links to its original page. The latest ten additions use only required ingredients already listed in the inventory, whether in stock or out of stock; garnishes and optional extras are checked separately by the drink maker. The Aviation uses the Savoy specification without crème de violette; the John Collins uses London dry gin. Measures use Difford’s 30 ml/fl oz convention; brand names are generalised and instructions summarised. Optional additions and garnishes are shown separately and excluded from availability. Ice and water are assumed available; sugar and agave syrups are not. Egg inventory maps to pasteurised egg white in recipes that call for egg white. Generic whisky is deliberately not assumed to be bourbon or Scotch. Recipes specifying rye use the Rye Whiskey inventory entry; check the recipe method for the specified proof. Mint leaves in a Mojito are required mixing ingredients and count toward availability.
 
--------------
+Margarita is the straight-up blanco-tequila version; Margarita on the rocks uses reposado tequila. The Mai Tai follows Trader Vic’s recipe, the Manhattan is the sweet split-bourbon-and-rye version, the Sazerac is New Orleans style, and the Corpse Reviver #2 follows the Savoy recipe. Each links to the exact Difford’s variant used.
 
-### Description
+## Preview
 
-Cocktails is a list of of some popular classic and modern classics cocktail recipes presented (in metric units) in a quick-to-read 'spec sheet' format similar to those used by bartenders. The list comes from a similar list I made when I trained bartenders on cocktails and spirits in London, UK.
+From the parent repository, run `python3 -m http.server 8000` and open `http://localhost:8000/cocktails/`.
 
-I realise that different bars/bartenders have their own ways of making drinks that may differ from what I have used, however I’ve tried to give versions of the cocktails that I feel work well internationally  – recipes are a guide, not a book of law! Also, glassware is kept relatively simple (similar to what you would expect in a good home bar without needing to get too exotic).
- 
-For more information about mixing methods, techniques, or ingredients I have a cocktail blog at [Make Cocktails at Home](http://makecocktailsathome.com)
+## GitHub Pages
 
-#### David Turnbull
-@_davidturnbull
-
-[davidturnbull.co](https://davidturnbull.co)
+Publish these files with the site’s existing GitHub Pages workflow. All app URLs are relative, so the app also works beneath a repository URL. This folder is a separate Git submodule: commit and push its changes to `JackDunstan/cocktails`, then update the submodule reference in the parent repository. The parent’s existing `.github/workflows/static.yml` already initialises submodules before uploading the site. No commits or pushes are performed by this implementation.

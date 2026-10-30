@@ -1,0 +1,864 @@
+[
+  {
+    "name": "Fifty-Fifty Martini",
+    "style": "Stirred · Coupe",
+    "colour": "olive",
+    "tag": "Botanical / dry",
+    "ingredients": [
+      [
+        45,
+        "London Dry Gin"
+      ],
+      [
+        45,
+        "Dry Vermouth"
+      ]
+    ],
+    "method": "Stir with ice until cold, then fine-strain into a chilled coupe.",
+    "garnish": "Skewered green olive",
+    "source": "2162/fifty-fifty-dry-martini-8-11-ratio"
+  },
+  {
+    "name": "Negroni",
+    "style": "Built · Rocks",
+    "colour": "red",
+    "tag": "Bitter / bold",
+    "ingredients": [
+      [
+        30,
+        "London Dry Gin"
+      ],
+      [
+        30,
+        "Campari"
+      ],
+      [
+        30,
+        "Sweet red vermouth"
+      ]
+    ],
+    "method": "Add the three ingredients to a rocks glass filled with ice and stir to chill and combine.",
+    "garnish": "Orange slice or orange zest",
+    "source": "1392/negroni-cocktail"
+  },
+  {
+    "name": "Margarita on the rocks",
+    "style": "Shaken · Rocks",
+    "colour": "lime",
+    "tag": "Citrus / bright",
+    "ingredients": [
+      [
+        45,
+        "Reposado Tequila"
+      ],
+      [
+        22.5,
+        "Cointreau"
+      ],
+      [
+        22.5,
+        "Lime juice"
+      ],
+      [
+        5,
+        "Agave syrup"
+      ]
+    ],
+    "method": "Shake with ice and strain into a chilled rocks glass over fresh ice.",
+    "garnish": "Lime wedge; optional salt rim",
+    "optional": "6 drops Margarita bitters and 2 drops saline (or a pinch of salt).",
+    "source": "1255/margarita"
+  },
+  {
+    "name": "Gin Rickey",
+    "style": "Shaken · Small highball",
+    "colour": "lime",
+    "tag": "Crisp / refreshing",
+    "ingredients": [
+      [
+        45,
+        "London Dry Gin"
+      ],
+      [
+        15,
+        "Lime juice"
+      ],
+      [
+        10,
+        "Rich sugar syrup"
+      ],
+      [
+        15,
+        "Soda water"
+      ]
+    ],
+    "method": "Shake the gin, lime and syrup with ice. Strain over fresh ice into a small highball (maximum 300 ml), then add the soda.",
+    "garnish": "Long lime peel",
+    "source": "1676/gin-rickey"
+  },
+  {
+    "name": "Garibaldi",
+    "style": "Built · Small highball",
+    "colour": "orange",
+    "tag": "Bitter / juicy",
+    "ingredients": [
+      [
+        45,
+        "Campari"
+      ],
+      [
+        2.5,
+        "Rich sugar syrup"
+      ],
+      [
+        120,
+        "Orange Juice"
+      ]
+    ],
+    "method": "Fine-strain freshly squeezed orange juice and briefly blend without ice to aerate. Stir the Campari, syrup and half the juice over two ice cubes, then add more ice and the remaining juice.",
+    "garnish": "Orange wedge",
+    "source": "825/garibaldi"
+  },
+  {
+    "name": "Gin & It",
+    "style": "Stirred · Coupe",
+    "colour": "red",
+    "tag": "Botanical / rich",
+    "ingredients": [
+      [
+        52.5,
+        "London Dry Gin"
+      ],
+      [
+        22.5,
+        "Sweet red vermouth"
+      ],
+      [
+        1,
+        "Orange bitters",
+        "dash"
+      ]
+    ],
+    "method": "Stir with ice, then fine-strain into a chilled coupe.",
+    "garnish": "Lemon zest twist",
+    "source": "833/gin-and-it"
+  },
+  {
+    "name": "White Lady",
+    "style": "Shaken · Coupe",
+    "colour": "cream",
+    "tag": "Citrus / silky",
+    "ingredients": [
+      [
+        50,
+        "London Dry Gin"
+      ],
+      [
+        22.5,
+        "Cointreau"
+      ],
+      [
+        22.5,
+        "Lemon juice"
+      ],
+      [
+        15,
+        "Egg"
+      ]
+    ],
+    "method": "Use pasteurised egg white. Shake all ingredients with ice, strain back into the shaker, shake again without ice, then fine-strain into a chilled coupe.",
+    "garnish": "Lemon zest twist",
+    "optional": "7.5 ml rich sugar syrup, 3 drops saline (or a pinch of salt) and 3 drops orange flower water.",
+    "source": "2091/white-lady"
+  },
+  {
+    "name": "Sidecar",
+    "style": "Shaken · Coupe",
+    "colour": "orange",
+    "tag": "Citrus / warming",
+    "ingredients": [
+      [
+        45,
+        "Brandy/Cognac"
+      ],
+      [
+        15,
+        "Cointreau"
+      ],
+      [
+        22.5,
+        "Lemon juice"
+      ],
+      [
+        5,
+        "Rich sugar syrup"
+      ]
+    ],
+    "method": "Shake with ice and fine-strain into a chilled coupe. Add 5 ml chilled water before shaking if using very dry ice; omit it for wet ice.",
+    "garnish": "Lemon zest twist; sugar rim moistened with orange juice",
+    "optional": "2 drops saline or a pinch of salt.",
+    "source": "4791/sidecar"
+  },
+  {
+    "name": "Margarita",
+    "style": "Shaken · Coupe",
+    "colour": "lime",
+    "tag": "Citrus / bright",
+    "ingredients": [
+      [
+        45,
+        "Blanco tequila"
+      ],
+      [
+        22.5,
+        "Cointreau"
+      ],
+      [
+        22.5,
+        "Lime juice"
+      ],
+      [
+        5,
+        "Agave syrup"
+      ]
+    ],
+    "method": "Shake with ice, then fine-strain into a chilled coupe. Serve straight-up, without ice in the glass.",
+    "garnish": "Lime wedge; optional salt rim",
+    "source": "1254/margarita-straight-up",
+    "optional": "4 drops Margarita bitters."
+  },
+  {
+    "name": "Kingston Negroni",
+    "style": "Stirred · Rocks",
+    "colour": "red",
+    "tag": "Funky / bitter",
+    "ingredients": [
+      [
+        30,
+        "Overproof aged pot still rum"
+      ],
+      [
+        30,
+        "Sweet red vermouth"
+      ],
+      [
+        30,
+        "Campari"
+      ]
+    ],
+    "method": "Use a high-ester overproof pot still rum aged 4–6 years. Stir all ingredients with ice, then strain into a chilled rocks glass over fresh ice.",
+    "garnish": "Orange slice",
+    "source": "3475/kingston-negroni"
+  },
+  {
+    "name": "Boulevardier",
+    "style": "Stirred · Rocks",
+    "colour": "red",
+    "tag": "Bitter / warming",
+    "ingredients": [
+      [
+        45,
+        "Bourbon whiskey"
+      ],
+      [
+        22.5,
+        "Sweet red vermouth"
+      ],
+      [
+        22.5,
+        "Campari"
+      ]
+    ],
+    "method": "Stir with ice until chilled, then strain into a rocks glass over a large ice cube.",
+    "garnish": "Express an orange twist over the drink and add it to the glass.",
+    "source": "2955/boulevardier-cocktail"
+  },
+  {
+    "name": "Paper Plane",
+    "style": "Shaken · Coupe",
+    "colour": "orange",
+    "tag": "Bittersweet / citrus",
+    "ingredients": [
+      [
+        22.5,
+        "Bourbon whiskey"
+      ],
+      [
+        22.5,
+        "Amaro Nonino Quintessentia"
+      ],
+      [
+        22.5,
+        "Aperol"
+      ],
+      [
+        22.5,
+        "Lemon juice"
+      ]
+    ],
+    "method": "Shake all four ingredients with ice, then fine-strain into a chilled coupe.",
+    "garnish": "Miniature paper plane clipped to the rim and/or a lemon twist",
+    "source": "3630/paper-plane"
+  },
+  {
+    "name": "Last Word",
+    "style": "Shaken · Coupe",
+    "colour": "lime",
+    "tag": "Herbal / tart",
+    "ingredients": [
+      [
+        30,
+        "London Dry Gin"
+      ],
+      [
+        20,
+        "Green Chartreuse"
+      ],
+      [
+        20,
+        "Maraschino liqueur"
+      ],
+      [
+        20,
+        "Lime juice"
+      ]
+    ],
+    "method": "Shake with ice and fine-strain into a chilled coupe. With ice taken straight from the freezer, include 7.5 ml chilled water; omit the water when using wet ice.",
+    "garnish": "Express a lime twist over the drink and discard; add skewered maraschino cherries.",
+    "source": "1133/last-word"
+  },
+  {
+    "name": "Vesper",
+    "style": "Shaken · Martini",
+    "colour": "olive",
+    "tag": "Botanical / bold",
+    "ingredients": [
+      [
+        60,
+        "London Dry Gin"
+      ],
+      [
+        20,
+        "Vodka"
+      ],
+      [
+        10,
+        "Lillet Blanc"
+      ]
+    ],
+    "method": "Shake all ingredients with ice and fine-strain into a chilled martini glass. Use a blanc quinquina/kina such as Mattei Cap Corse or Kina L’Aéro; dry vermouth is not the specified ingredient.",
+    "garnish": "Express a lemon twist over the drink and add it to the glass.",
+    "source": "2597/vesper-dry-martini"
+  },
+  {
+    "name": "Old Fashioned",
+    "style": "Stirred · Rocks",
+    "colour": "orange",
+    "tag": "Spirit-forward / rich",
+    "ingredients": [
+      [
+        60,
+        "Bourbon whiskey"
+      ],
+      [
+        12.5,
+        "Rich sugar syrup"
+      ],
+      [
+        3,
+        "Angostura Aromatic Bitters",
+        "dash"
+      ]
+    ],
+    "method": "Stir all ingredients with ice, then strain into a chilled rocks glass over a large ice cube.",
+    "garnish": "Express an orange twist over the drink and add it to the glass.",
+    "source": "4782/old-fashioned"
+  },
+  {
+    "name": "Manhattan",
+    "style": "Stirred · Coupe",
+    "colour": "red",
+    "tag": "Rich / aromatic",
+    "ingredients": [
+      [
+        45,
+        "Bourbon whiskey"
+      ],
+      [
+        15,
+        "Rye Whiskey"
+      ],
+      [
+        30,
+        "Sweet red vermouth"
+      ],
+      [
+        1,
+        "Angostura Aromatic Bitters",
+        "dash"
+      ]
+    ],
+    "method": "Use 100-proof (50% ABV) straight rye for Difford’s specified strength. Stir all ingredients with ice and fine-strain into a chilled coupe.",
+    "garnish": "Express an orange twist over the drink and discard; garnish with a skewered maraschino cherry.",
+    "source": "1247/manhattan-sweet"
+  },
+  {
+    "name": "Black Manhattan",
+    "style": "Stirred · Coupe",
+    "colour": "red",
+    "tag": "Dark / bittersweet",
+    "ingredients": [
+      [
+        60,
+        "Rye Whiskey"
+      ],
+      [
+        30,
+        "Averna amaro"
+      ],
+      [
+        1,
+        "Angostura Aromatic Bitters",
+        "dash"
+      ],
+      [
+        1,
+        "Orange bitters",
+        "dash"
+      ]
+    ],
+    "method": "Use 100-proof (50% ABV) straight rye for Difford’s specified strength. Stir with ice and fine-strain into a chilled coupe.",
+    "garnish": "Maraschino cherry",
+    "source": "4345/black-manhattan"
+  },
+  {
+    "name": "Mai Tai",
+    "style": "Shaken · Double rocks",
+    "colour": "orange",
+    "tag": "Tropical / nutty",
+    "ingredients": [
+      [
+        60,
+        "Aged Cuban rum"
+      ],
+      [
+        15,
+        "Dry curaçao"
+      ],
+      [
+        22.5,
+        "Lime juice"
+      ],
+      [
+        10,
+        "Orgeat syrup (2:1)"
+      ],
+      [
+        7.5,
+        "Rich sugar syrup"
+      ]
+    ],
+    "method": "Following Difford’s Trader Vic’s version, use aged Cuban rum (the source specifies Havana Club 7 Años). Shake the five ingredients with ice, then strain into a double rocks glass packed with crushed ice.",
+    "garnish": "Spent half lime shell, mint sprigs, and skewered pineapple cubes with a maraschino cherry",
+    "source": "1219/mai-tai-trader-vics",
+    "optional": "Float 5 ml dark/black/blackstrap rum on top after straining."
+  },
+  {
+    "name": "Jungle Bird",
+    "style": "Shaken · Rocks",
+    "colour": "orange",
+    "tag": "Tropical / bitter",
+    "ingredients": [
+      [
+        45,
+        "Dark/black/blackstrap rum"
+      ],
+      [
+        15,
+        "Campari"
+      ],
+      [
+        45,
+        "Pineapple juice"
+      ],
+      [
+        15,
+        "Lime juice"
+      ],
+      [
+        12.5,
+        "Rich sugar syrup"
+      ]
+    ],
+    "method": "Shake all ingredients with ice, then strain into a chilled rocks glass filled with crushed ice.",
+    "garnish": "Skewered pineapple wedge and maraschino cherry",
+    "source": "1082/jungle-bird"
+  },
+  {
+    "name": "Sazerac",
+    "style": "Stirred · Rocks, no ice",
+    "colour": "orange",
+    "tag": "Spiced / anise",
+    "ingredients": [
+      [
+        45,
+        "Rye Whiskey"
+      ],
+      [
+        7.5,
+        "Rich sugar syrup"
+      ],
+      [
+        3,
+        "Peychaud’s bitters",
+        "dash"
+      ],
+      [
+        4,
+        "Absinthe",
+        "dash"
+      ]
+    ],
+    "method": "For Difford’s New Orleans-style version, use 100-proof (50% ABV) straight rye. Chill a rocks glass with ice. Separately stir the rye, syrup and Peychaud’s with ice. Empty the serving glass, rinse it with the absinthe, then strain in the cocktail. Serve without ice.",
+    "garnish": "Express a lemon twist over the drink and use as garnish.",
+    "source": "3390/sazerac-new-orleans-style"
+  },
+  {
+    "name": "Corpse Reviver #2",
+    "style": "Shaken · Coupe",
+    "colour": "cream",
+    "tag": "Citrus / aromatic",
+    "ingredients": [
+      [
+        22.5,
+        "London Dry Gin"
+      ],
+      [
+        22.5,
+        "Cointreau"
+      ],
+      [
+        22.5,
+        "Lillet Blanc"
+      ],
+      [
+        22.5,
+        "Lemon juice"
+      ],
+      [
+        2,
+        "Absinthe",
+        "dash"
+      ]
+    ],
+    "method": "Shake all ingredients with ice and fine-strain into a chilled coupe. This is Difford’s Savoy version, using Lillet Blanc as the aromatised wine.",
+    "garnish": "Express a lemon twist over the drink and add it to the glass.",
+    "source": "593/corpse-reviver-no2-savoy-recipe",
+    "optional": "2.5 ml rich sugar syrup."
+  },
+  {
+    "name": "Mojito",
+    "style": "Built · Collins",
+    "colour": "lime",
+    "tag": "Minty / refreshing",
+    "ingredients": [
+      [
+        14,
+        "Mint leaves",
+        "leaves"
+      ],
+      [
+        60,
+        "Light gold rum"
+      ],
+      [
+        15,
+        "Lime juice"
+      ],
+      [
+        10,
+        "Rich sugar syrup"
+      ],
+      [
+        15,
+        "Soda water"
+      ]
+    ],
+    "method": "Use a light gold column-still rum aged 1–3 years. Add mint, rum, lime and syrup to a chilled Collins glass. Fill two-thirds with crushed ice and churn with a bar spoon. Add more crushed ice, then finish with the soda.",
+    "garnish": "Bouquet of mint sprigs",
+    "source": "1341/mojito-cocktail",
+    "optional": "8 drops Difford’s Daiquiri bitters."
+  },
+  {
+    "name": "Americano",
+    "style": "Built · Collins",
+    "colour": "red",
+    "tag": "Bittersweet / refreshing",
+    "ingredients": [
+      [
+        45,
+        "Campari"
+      ],
+      [
+        45,
+        "Sweet red vermouth"
+      ],
+      [
+        75,
+        "Soda water"
+      ]
+    ],
+    "method": "Pour into a chilled Collins glass filled with ice and give a brief stir.",
+    "garnish": "Orange slice",
+    "source": "61/americano"
+  },
+  {
+    "name": "Whiskey Sour",
+    "style": "Shaken · Rocks",
+    "colour": "cream",
+    "tag": "Citrus / warming",
+    "ingredients": [
+      [
+        60,
+        "Bourbon whiskey"
+      ],
+      [
+        30,
+        "Lemon juice"
+      ],
+      [
+        20,
+        "Rich sugar syrup"
+      ],
+      [
+        3,
+        "Angostura Aromatic Bitters",
+        "dash"
+      ],
+      [
+        15,
+        "Egg"
+      ]
+    ],
+    "method": "Use pasteurised egg white. Shake all ingredients with ice, strain back into the shaker and shake again without ice. Fine-strain into a chilled rocks glass over fresh ice.",
+    "garnish": "Skewered lemon slice and maraschino cherry",
+    "source": "2083/whiskey-sour-diffords-recipe",
+    "optional": "2 drops saline or a pinch of salt."
+  },
+  {
+    "name": "Brandy Sour",
+    "style": "Shaken · Rocks",
+    "colour": "cream",
+    "tag": "Citrus / rich",
+    "ingredients": [
+      [
+        50,
+        "Brandy/Cognac"
+      ],
+      [
+        22.5,
+        "Lemon juice"
+      ],
+      [
+        15,
+        "Rich sugar syrup"
+      ],
+      [
+        15,
+        "Egg"
+      ],
+      [
+        3,
+        "Angostura Aromatic Bitters",
+        "dash"
+      ]
+    ],
+    "method": "Use cognac and pasteurised egg white. Shake with ice, strain back into the shaker and shake again without ice. Fine-strain over fresh ice in a chilled rocks glass.",
+    "garnish": "Express a lemon twist and discard; garnish with a skewered lemon slice and maraschino cherry.",
+    "source": "316/brandy-sour"
+  },
+  {
+    "name": "Aviation (Savoy spec.)",
+    "style": "Shaken · Coupe",
+    "colour": "cream",
+    "tag": "Citrus / cherry",
+    "ingredients": [
+      [
+        52.5,
+        "London Dry Gin"
+      ],
+      [
+        22.5,
+        "Maraschino liqueur"
+      ],
+      [
+        15,
+        "Lemon juice"
+      ]
+    ],
+    "method": "Follow the Savoy version, which does not use crème de violette. Shake with ice and fine-strain into a chilled coupe. Include 10 ml chilled water with dry freezer ice; omit it when using wet ice.",
+    "garnish": "Skewered maraschino cherry; optional sugar rim",
+    "source": "533/aviation-savoy-spec"
+  },
+  {
+    "name": "Southside",
+    "style": "Shaken · Coupe",
+    "colour": "lime",
+    "tag": "Minty / citrus",
+    "ingredients": [
+      [
+        7,
+        "Mint leaves",
+        "leaves"
+      ],
+      [
+        60,
+        "London Dry Gin"
+      ],
+      [
+        22.5,
+        "Lime juice"
+      ],
+      [
+        15,
+        "Rich sugar syrup"
+      ]
+    ],
+    "method": "Gently bruise the mint in a shaker. Add gin, lime and syrup, then shake with ice and fine-strain into a chilled coupe. If using the optional soda, add it after straining.",
+    "garnish": "Mint leaf",
+    "source": "2200/southside",
+    "optional": "2 drops saline (or a tiny pinch of salt) and 10 ml chilled soda water."
+  },
+  {
+    "name": "Mint Julep",
+    "style": "Shaken · Julep cup",
+    "colour": "orange",
+    "tag": "Minty / bold",
+    "ingredients": [
+      [
+        12,
+        "Mint leaves",
+        "leaves"
+      ],
+      [
+        80,
+        "Bourbon whiskey"
+      ],
+      [
+        10,
+        "Rich sugar syrup"
+      ],
+      [
+        2,
+        "Angostura Aromatic Bitters",
+        "dash"
+      ]
+    ],
+    "method": "Chill the serving cup well. Gently bruise the mint in a shaker, add the other ingredients and shake with ice. Fine-strain into the cup packed with crushed ice.",
+    "garnish": "Mint sprigs dusted with icing sugar",
+    "source": "1330/mint-julep"
+  },
+  {
+    "name": "Tommy’s Margarita",
+    "style": "Shaken · Rocks",
+    "colour": "lime",
+    "tag": "Agave / citrus",
+    "ingredients": [
+      [
+        60,
+        "Reposado Tequila"
+      ],
+      [
+        30,
+        "Lime juice"
+      ],
+      [
+        15,
+        "Agave syrup"
+      ]
+    ],
+    "method": "Shake with ice, then fine-strain over fresh ice in a chilled rocks glass.",
+    "garnish": "Lime wedge",
+    "source": "1975/tommys-margarita",
+    "optional": "4 drops Difford’s Margarita bitters."
+  },
+  {
+    "name": "John Collins",
+    "style": "Shaken · Collins",
+    "colour": "lime",
+    "tag": "Citrus / refreshing",
+    "ingredients": [
+      [
+        52.5,
+        "London Dry Gin"
+      ],
+      [
+        22.5,
+        "Lemon juice"
+      ],
+      [
+        15,
+        "Rich sugar syrup"
+      ],
+      [
+        52.5,
+        "Soda water"
+      ]
+    ],
+    "method": "Shake the gin, lemon and syrup with ice. Open the shaker and add the chilled soda without shaking again, then strain into a chilled Collins glass over fresh ice. This is Difford’s London dry gin Collins; its Tom Collins uses old tom gin.",
+    "garnish": "Skewered lemon slice and maraschino cherry",
+    "source": "1069/john-collins"
+  },
+  {
+    "name": "Dry Martini (5:1)",
+    "style": "Stirred · Martini",
+    "colour": "olive",
+    "tag": "Botanical / dry",
+    "ingredients": [
+      [
+        75,
+        "London Dry Gin"
+      ],
+      [
+        15,
+        "Dry Vermouth"
+      ]
+    ],
+    "method": "Use gin chilled in the freezer and refrigerated vermouth. Stir with ice, then fine-strain into a chilled martini glass.",
+    "garnish": "Chilled green olive and/or expressed lemon twist; may also be served without garnish",
+    "source": "676/dry-martini-preferred-51-ratio",
+    "optional": "1 dash orange bitters."
+  },
+  {
+    "name": "Silver Gin Fizz",
+    "style": "Shaken · Small highball",
+    "colour": "cream",
+    "tag": "Citrus / silky",
+    "ingredients": [
+      [
+        60,
+        "London Dry Gin"
+      ],
+      [
+        30,
+        "Lemon juice"
+      ],
+      [
+        20,
+        "Rich sugar syrup"
+      ],
+      [
+        20,
+        "Egg"
+      ],
+      [
+        60,
+        "Soda water"
+      ]
+    ],
+    "method": "Use pasteurised egg white. Shake everything except soda with ice, strain back into the shaker and shake again without ice. Fine-strain into a chilled small highball with no ice. Rest in the freezer for about a minute to set the foam, then slowly add chilled soda to lift the head.",
+    "garnish": "Quarter lemon slice",
+    "source": "1823/silver-gin-fizz",
+    "optional": "8 drops Bob’s Ginseng bitters."
+  }
+]
