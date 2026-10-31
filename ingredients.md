@@ -38,6 +38,7 @@
 * Sweet red vermouth [x]
 * Dry Vermouth
 * Amaro Nonino Quintessentia [x]
+* Amaro Montenegro
 * Green Chartreuse
 * Blanc quinquina/kina [x]
 * Averna amaro
